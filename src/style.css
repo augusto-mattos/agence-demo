@@ -1,1 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+
+:root {
+    --color-primary: #43838d;
+    --color-secondary: #3e4854;
+}
