@@ -1,0 +1,33 @@
+.formHero {
+    display: flex;
+    background-color: var(--color-primary);
+    padding: 2rem;
+    margin: 0 10%;
+    position: relative;
+    bottom: 7rem;
+}
+
+.formVente {
+    width: 70%;
+    margin-right: .5rem;
+}
+
+.formBien {
+    width: 70%;
+    margin-right: .5rem;
+}
+
+.formLoc {
+    width: 90%;
+    margin-right: 2rem;
+}
+
+.formRayon {
+    width: 40%;
+    margin-right: .5rem;
+}
+
+.search {
+    background-color: var(--color-secondary);
+    margin: none;
+}
